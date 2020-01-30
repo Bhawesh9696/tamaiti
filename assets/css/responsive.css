@@ -1,0 +1,313 @@
+/* lg */
+@media (min-width: 1200px) {}
+
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+.form_tab .form-control {
+    font-size: 16px;
+}
+.form_tab .login {
+    padding: 5px 15px;
+    font-size: 21px;
+    margin-top: 10px;
+}
+.form_tab .an_account {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.form_tab .form-group {
+    margin-bottom: 15px;
+}
+.form_pack figure img {
+    border-radius: 0px 30px 30px 0;
+}
+.form_pack {
+    border-radius: 30px;
+}
+.signup {
+    margin-top: 50px;
+}
+.form_forget {
+    padding: 30px 60px;
+}
+.form_search .form-control.select_ed {
+    width: 25%!important;
+    font-size: 18px;
+    padding: 8px 10px;
+}
+.form_search .form-control {
+    width: 57%!important;
+    padding: 8px 10px;
+    padding-top: 8px;
+	font-size: 17px;
+}
+.form_search .seachbtn {
+    font-size: 16px;
+    padding: 8px 20px;
+}
+.user_drop .fa-user {
+    font-size: 19px;
+    margin-right: 3px;
+}
+.translateto {
+    font-size: 17px;
+    margin-right: 0px;
+}
+.search_pack .advance_search {
+	font-size: 16px;
+}
+
+
+}
+
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+.form_pack {
+    border-radius: 15px;
+}
+.form_tab .nav.nav-pills {
+    margin-left: 33%;
+}
+.form_pack figure img {
+    border-radius: 0px 0px 15px 15px;
+	width: 100%;
+}
+.signup {
+    margin-top: 30px;
+}
+.form_forget {
+    border-radius: 15px;
+    padding: 30px 30px;
+}
+.password_hding {
+    margin-bottom: 1rem;
+}
+.login {
+    padding: 6px 15px;
+}
+.verification_otp .registred {
+	margin-top: 2rem;
+}
+.form_search .select_ed {
+    font-size: 18px;
+    padding: 8px 10px!important;
+	width: 33%!important;
+}
+.form_search .seachbtn {
+    padding: 8px 20px;
+}
+.form_search .form-control {
+    width: 42%;
+    padding: 8px 10px;
+    padding-top: 7px;
+}
+.user_drop .fa-user {
+    font-size: 17px;
+    margin-right: 2px;
+}
+.user_drop {
+    font-size: 15px;
+}
+.translateto {
+    font-size: 15px;
+    margin-right: 0px;
+}
+.banner_txt {
+    right: 50px;
+    background-color: #02bf25;
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
+	box-shadow: #04ab23 -10px 5px 0px 0px;
+}
+.wlcome_txt {
+    font-size: 32px;
+    line-height: 40px;
+}
+.author_main {
+	margin-top: 30px;
+}
+.search_pack .advance_search {
+	margin: 0px 0;
+}
+.select_box {
+    margin-bottom: 15px;
+}
+
+
+
+
+}
+
+
+/* xs */
+@media (max-width: 767px) {
+.form_tab {
+    padding: 20px 15px;
+	margin-bottom: 30px;
+}
+.form_tab .nav.nav-pills {
+    margin-bottom: 30px;
+    margin-left: 15%;
+}
+.form_pack {
+    border-radius: 15px;
+}
+.form_tab .login {
+    padding: 5px 15px;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.form_pack figure img {
+    border-radius: 0px 0px 15px 15px;
+}
+.signup {
+    margin-top: 30px;
+}
+.forgetbtn {
+    margin: 0px 0 5px;
+}
+.form_forget {
+    border-radius: 15px;
+    padding: 30px 15px;
+}
+.password_hding {
+    margin-bottom: 1rem;
+}
+.registred {
+    margin-bottom: 1rem;
+}
+.registred {
+    font-size: 17px;
+}
+.resend {
+    font-size: 18px;
+}
+.form_search .select_ed {
+    font-size: 18px;
+    padding: 7px 10px!important;
+	width: 36%!important;
+}
+.form_search .seachbtn {
+    font-size: 16px;
+	padding: 7px 10px;
+}
+.form_search .form-control {
+    width: 45%;
+    padding: 6.5px 10px;
+}
+.user_drop {
+    padding: 5px 15px 5px 15px;
+    font-size: 18px;
+}
+.form_search {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.top_header {
+    text-align: -webkit-center;
+    text-align: center;
+}
+.carousel-item {
+    height: 23rem;
+}
+.carousel-item > img {
+    height: 23rem;
+}
+.banner_txt {
+    right: 10px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    box-shadow: #04ab23 -5px 7px 0px 0px;
+}
+.wlcome_txt {
+    font-size: 30px;
+    line-height: 38px;
+}
+.title_txt {
+    font-size: 21px;
+    margin-bottom: 15px;
+}
+.author_main {
+	margin-top: 15px;
+}
+.name_author {
+    font-size: 23px;
+    margin: 15px 0 15px;
+}
+.autom_under {
+    font-size: 22px;
+    line-height: 25px;
+}
+.book_one {
+    margin: 30px 0 30px;
+    background: url("../images/book_one.png") 0 0 repeat-y;
+    width: auto;
+    height: auto;
+    padding: 30px 0 30px;
+}
+.lorem_txt {
+    font-size: 18px;
+}
+.readbtn {
+    margin: 15px 0 20px;
+}
+.author_box img {
+    margin-bottom: 15px;
+}
+.footer_main {
+    padding: 30px 0 30px;
+    margin-top: 20px;
+}
+.footer_pack h2 {
+    font-size: 18px;
+}
+.footer_ul li a {
+    font-size: 18px;
+}
+.social_box li {
+    margin-right: 20px;
+}
+.footer_pack .input-group .form-control {
+    padding: 8px 15px;
+}
+.copy_right p {
+    font-size: 18px;
+}
+.search_pack .input-group .form-control {
+    font-size: 16px;
+}
+.search_pack .searchbtn {
+    padding: 8px 15px;
+    font-size: 16px;
+}
+.search_pack .advance_search {
+    padding: 5px 10px;
+	margin: 5px 0 10px;
+}
+.select_box {
+    margin-bottom: 25px;
+}
+.select_box .custom-select-trigger {
+    padding: 8px 20px;
+}
+.select_box {
+	margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
